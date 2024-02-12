@@ -3,6 +3,9 @@ using System.Runtime.CompilerServices;
 
 namespace GhostLyzer.Core.Utils
 {
+    /// <summary>
+    /// Provides methods for retrieving types from assemblies.
+    /// </summary>
     public static class TypeProvider
     {
         /// <summary>
